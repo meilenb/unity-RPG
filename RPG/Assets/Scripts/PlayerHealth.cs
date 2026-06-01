@@ -1,0 +1,28 @@
+using System.Collections;
+using System.Collections.Generic;
+using TMPro;
+using UnityEngine;
+
+public class PlayerHealth : MonoBehaviour
+{
+    public int currentHealth;
+    public int maxHealth;
+
+    public TMP_Text healthText;
+    public Animator healthTextAnim;
+    private void Start()
+    {
+        healthText.text = "HP: " + currentHealth + " / " + maxHealth;
+    }
+    public void ChangeHealth(int amount)
+    {
+        currentHealth += amount;
+        if (currentHealth  <=0)
+        {
+            gameObject.SetActive(false);
+
+        }
+        healthTextAnim.Play("TextUpdate");
+        healthText.text = "HP: " + currentHealth + " / " + maxHealth;
+    }
+}
