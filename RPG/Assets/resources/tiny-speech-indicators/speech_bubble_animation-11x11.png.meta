@@ -96,7 +96,7 @@ TextureImporter:
       name: speech_bubble_animation-11x11_0
       rect:
         serializedVersion: 2
-        x: 11
+        x: 0
         y: 0
         width: 11
         height: 11
@@ -117,6 +117,27 @@ TextureImporter:
       name: speech_bubble_animation-11x11_1
       rect:
         serializedVersion: 2
+        x: 11
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9dbb29e319d81498c4fb8b207aae8b
+      internalID: -8370262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech_bubble_animation-11x11_2
+      rect:
+        serializedVersion: 2
         x: 22
         y: 0
         width: 11
@@ -128,14 +149,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7e8e8738a167bf418b49d96086ea2b3
-      internalID: -251400821
+      spriteID: 2497480e2c4882843aec6daa40fadc9d
+      internalID: -1629968677
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: speech_bubble_animation-11x11_2
+      name: speech_bubble_animation-11x11_3
       rect:
         serializedVersion: 2
         x: 33
@@ -149,14 +170,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 259ae7cb811ed8242a2e934f35fbddc7
-      internalID: -80718501
+      spriteID: 8f2264563dbd4a643a98a5da44fd4366
+      internalID: 789637816
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: speech_bubble_animation-11x11_3
+      name: speech_bubble_animation-11x11_4
       rect:
         serializedVersion: 2
         x: 44
@@ -170,14 +191,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bcec60b39d049f24eb685a15ab511b89
-      internalID: -1989498470
+      spriteID: f7d2b3e5a9e118247bc80343d7f0551b
+      internalID: -1824774265
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: speech_bubble_animation-11x11_4
+      name: speech_bubble_animation-11x11_5
       rect:
         serializedVersion: 2
         x: 55
@@ -191,14 +212,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4d002af7d5f5224db8b5784b7143911
-      internalID: 264951738
+      spriteID: ba57be61ce2f8274581ca52be39ed51e
+      internalID: 1058283588
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: speech_bubble_animation-11x11_5
+      name: speech_bubble_animation-11x11_6
       rect:
         serializedVersion: 2
         x: 66
@@ -212,14 +233,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a09bd868c8b62c47b35ca641bff5c5e
-      internalID: 1674266434
+      spriteID: 149cf79459e2630468316f43372c8c25
+      internalID: 72059797
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: speech_bubble_animation-11x11_6
+      name: speech_bubble_animation-11x11_7
       rect:
         serializedVersion: 2
         x: 77
@@ -233,8 +254,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a4881d6a07058c14f85942bd81c7c2c4
-      internalID: -162723495
+      spriteID: e5dfaf15db61f8048b5068e0a7cf59a4
+      internalID: 857092513
       vertices: []
       indices: 
       edges: []
@@ -251,12 +272,13 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       speech_bubble_animation-11x11_0: 743961984
-      speech_bubble_animation-11x11_1: -251400821
-      speech_bubble_animation-11x11_2: -80718501
-      speech_bubble_animation-11x11_3: -1989498470
-      speech_bubble_animation-11x11_4: 264951738
-      speech_bubble_animation-11x11_5: 1674266434
-      speech_bubble_animation-11x11_6: -162723495
+      speech_bubble_animation-11x11_1: -8370262
+      speech_bubble_animation-11x11_2: -1629968677
+      speech_bubble_animation-11x11_3: 789637816
+      speech_bubble_animation-11x11_4: -1824774265
+      speech_bubble_animation-11x11_5: 1058283588
+      speech_bubble_animation-11x11_6: 72059797
+      speech_bubble_animation-11x11_7: 857092513
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
